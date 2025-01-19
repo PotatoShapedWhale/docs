@@ -29,16 +29,15 @@ Recruits are to be respectful and obey all KCDOJRP rules during the training pro
 
 ## Application & Review
 
-A recruit will submit an application [here](https://docs.kcdojrp.com/docs/leo/apply#application-process), Upon submission of the application a ticket will be opened in the Discord server with the application. We will review the applicant application in the private thread attached.
+A recruit will submit an application [here](https://docs.kcdojrp.com/docs/leo/apply#application-process). Upon submission of the application, a ticket will be opened in the Discord server with the application. We will review the applicant application in the private thread attached.
 
-Once reviewed and accepted, We will move forward with the FTO process.
+Once reviewed and accepted, we will move forward with the FTO process.
 
 ## Discord Roles
 
-Upon acceptance before training we will grant the department specific role along with the department recruit role to the member.
-This will grant the recruit all the permissions in the CAD and in-game.
+Upon acceptance, before training we will grant the department-specific role along with the department recruit role to the member. This will grant the recruit all the permissions in the CAD and in-game.
 
-Then post in the [#roster-updates](https://discord.com/channels/1132847710282727565/1270093499110395944) the updated positions!
+After this, make a post in the [#roster-updates](https://discord.com/channels/1132847710282727565/1270093499110395944) of the updated positions!
 
 
 ## CAD Registration
@@ -47,7 +46,7 @@ The recruit will likely need to fully logout of the [CAD](https://cad.kcdojrp.co
 
 If the recruit doesn't already have a citizen in the CAD they will need to [create one.](https://docs.kcdojrp.com/docs/cad/citizens)
 
-Next, Head over to the "Officer" tab and then "[My Officers](https://cad.kcdojrp.com/officer/my-officers)". Select "Create Officer" select the citizen, and give the call sign based off the [roster](https://docs.kcdojrp.com/docs/leo/information/directory).
+Next, head over to the "Officer" tab and then "[My Officers](https://cad.kcdojrp.com/officer/my-officers)." Select "Create Officer," then select the citizen and give the call sign based off the [roster](https://docs.kcdojrp.com/docs/leo/information/directory).
 
 ![Create Officer Box]({3FD7C6A1-6BED-41B8-9FC5-C7D7B530B6DA}.png)
 
@@ -64,7 +63,7 @@ Once the recruit is 10-6 go over all the various 10 status codes with them.
 - 10-10 - Off Duty
 - 10-33 - Panic Button
 
-Next head over the various buttons and their operations in the CAD;
+Next, look over the various buttons and their operations in the CAD;
 - Name Search
   - 10-31
   - Search "John Doe"
@@ -80,30 +79,30 @@ Next head over the various buttons and their operations in the CAD;
   - Use the Civilian Phonetic Alphabet to spell the plate
   - Explain: Owner, Model, Insurance (AKA I.N.S.), Registration Status, Tax Status, Flags/Alerts, and Reported/Reporting Stolen.
 - Create Call (CFS = Call For Service)
-  - Explain to the recruit al the fields.
+  - Explain to the recruit all the fields.
   - Postal/Location auto-fill from one-another.
   - Businesses and roads can be entered into location.
 - Create Ticket
   - Go over how they would create a ticket; Report, Violations, Seized Items, & Call Connection.
 - Create Bolo
   - Explain what a B.O.L.O. is and how to use this.
-  - Person Bolo - Used when looking for a specific person, Include Name, Clothing, Reason, etc (If known).
-  - Vehicle Bolo - Used when looking for a specific vehicle, Include Plate, Description, Reason, etc (If known).
-  - Other Bolo - Example; Extra Patrol at 24/7 Due to Robberies, Animal, Firearm, etc.
+  - Person Bolo - Used when looking for a specific person; Include Name, Clothing, Reason, etc (If known).
+  - Vehicle Bolo - Used when looking for a specific vehicle; Include Plate, Description, Reason, etc (If known).
+  - Other Bolo - Example: Extra Patrol at 24/7 Due to Robberies, Animal, Firearm, etc.
 - Notepad
   - Personal officer notepad.
 
 And the various sections below these buttons.
 
-*Warrants can only be issued byu Supervisors, The Recruits will not be able to.
+*Warrants can only be issued by Supervisors. The Recruits will not be able to.
 
 10-29/29 = Bolo's & Warrants
 
-Next, Go to "Officer" -> "[Penal Codes](https://cad.kcdojrp.com/officer/penal-codes)"
+Next, go to "Officer" -> "[Penal Codes](https://cad.kcdojrp.com/officer/penal-codes)"
 
 ## LEO Menu & Commands
 
-Next you'cll show the recruit through the in-game LEO menu and command!
+Next, you'll show the recruit through the in-game LEO menu and command!
 
 Guide the recruit through the in-game LEO menu, covering the following functions:
 - **Actions:**
@@ -112,7 +111,7 @@ Guide the recruit through the in-game LEO menu, covering the following functions
   - Placing a player into a vehicle.
   - Deploying and operating spike strips.
   - Checking BAC of a player.
-  - Tackling a player(Shift+W+E)
+  - Tackling a player (Shift+W+E)
 - **Speed Zones:**
   - Creating and removing speed zones.
 - **Wardrobe:**
@@ -120,11 +119,11 @@ Guide the recruit through the in-game LEO menu, covering the following functions
   - Wardrobe will also give the appropriate loadout.
 - **Vehicles:**
   - Probationary deputies are restricted to the first three (Non-Slick Top) vehicles on the list.
-  - Additionally, Make sure to go over the locking rear doors and the personal vehicle option in the menu.
+  - Additionally, make sure to go over the locking rear doors and the personal vehicle option in the menu.
 
-Also review the commands for all of the actions additionally basic commands such as `/cuff`, `/drag`, `/piv`, `/spikes {num}`, `/dv`, `/me`, `/gme`, `/hu`, `/huk`, etc. And their keybinds.
+Also, review the commands for all of the actions; additionally basic commands such as `/cuff`, `/drag`, `/piv`, `/spikes {num}`, `/dv`, `/me`, `/gme`, `/hu`, `/huk`, etc., and their respective keybinds.
 
-Lastly, Go over the tackling system with the recruit which is "E" while running towards a player.
+Lastly, go over the tackling system with the recruit which is "E" while running towards a player.
 
 ## Radio Usage & Radios Codes
 
@@ -140,7 +139,7 @@ Review the [Radio Callsigns, Codes, and Alphabet](/docs/leo/information/codes) w
 
 Ensure to go over the 10-38 Status Checks.
 
-Additionally, review the [Directory](/docs/leo/information/directory) for a better understanding of departmental structure, chain of command (COC), and their colleges.
+Additionally, review the [Directory](/docs/leo/information/directory) for a better understanding of departmental structure, chain of command (COC), and their colleagues.
 
 Go over some of the example radio call outs at the bottom of [this page](https://docs.kcdojrp.com/docs/leo/information/codes#example-usage). 
 

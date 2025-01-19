@@ -6,11 +6,11 @@
 #### 🖥️ If you are looking for our <a href="https://cad.kcdojrp.com" target="_blank">CAD</a>, go to <a href="https://cad.kcdojrp.com" target="_blank">cad.kcdojrp.com</a>
 
 ### ✍️ If you want to contribute to our docs and add more information or maybe just fix a typo, here is a useful guide to get started:
-- If you don't already have one, You will need to create a Github account. You can sign up [Here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=MTDOJRP%2Fdocs)
+- If you don't already have one, you will need to create a Github account. You can sign up [Here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=MTDOJRP%2Fdocs)
 
-1. Click [**Fork**](https://github.com/MTDOJRP/docs/fork), Than **Create Fork** to get started!
+1. Click [**Fork**](https://github.com/MTDOJRP/docs/fork), then **Create Fork** to get started!
 
-2. Now on this fork you can now modify the pages as you please, You can add new information, fix issues, and more!
+2. Now on this fork you can now modify the pages as you please, you can add new information, fix issues, and more!
 However this will not update on the website just yet!
 
 3. To make your changes on the website come back to the [**original repo**](https://github.com/MTDOJRP/docs)
