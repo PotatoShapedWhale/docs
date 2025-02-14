@@ -143,43 +143,43 @@ Additionally, review the [Directory](/docs/leo/information/directory) for a bett
 
 Go over some of the example radio call outs at the bottom of [this page](https://docs.kcdojrp.com/docs/leo/information/codes#example-usage). 
 
-You should also go over basic procedures and terminology at this points, For Ex. What is a Felony Traffic Stop.
+You should also go over basic procedures and terminology at this point, for example, what a Felony Traffic Stop is.
 
 ## Map Knowledge & Driving Test
 
 In this section introduce the recruit to the postal code system and the `/postal {postal}` command.
 
-Ask some basic question about the state, Such as "Where is Paleto Bay," "Where is Grove Street," etc.
+Ask some basic question about the state, such as "Where is Paleto Bay?", "Where is Grove Street?", etc.
 
-Next we'll conduct the driving test starting at Fort Zancudo:
+Next, we'll conduct the driving test starting at Fort Zancudo:
 
 1. Instruct the recruit to spawn one of the authorized recruit training vehicles.
     - First 3 of the non-slick-top variants.
-2. Have the recruit drive to a popular location on the map, Stopping at a gas station on the way. Avoid entering AOP.
-    - Ex. Mirror Park or Grapeseed
-3. During this test, The recruit must follow all traffic laws with the exception of blinkers.
-    - Provide 15-20MPH Leeway on speed and Do not be overly strict on maintaining the lane.
+2. Have the recruit drive to a popular location on the map, stopping at a gas station on the way. Avoid entering AOP.
+    - Ex. Mirror Park or Grapeseed.
+3. During this test, the recruit must follow all traffic laws with the exception of blinkers.
+    - Provide 15-20MPH Leeway on speed and do not be overly strict on maintaining the lane.
 
-During this test is also a casual interview, Get to know your recruit while you take a relaxing drive!
+During this test, you should also treat it as a casual interview; get to know your recruit while you take a relaxing drive!
 
 ## Standard Traffic Stop & Tickets
 
-* The training officer should be using a brightly colored ford explorer of the department in training for with the plate "12ABC34" and name "John Doe" 
+* The training officer should be using a brightly colored ford explorer of the department in training for with the plate "12ABC34" and name "John Doe." 
 * The training officer should be pulled over for a misdemeanor traffic offense in this scenario.
-* The recruit should be using a standard LEO vehicle for the department in training for.
+* The recruit should be using a standard LEO vehicle for the department they are in training for.
 
 In this section we will complete a minimum of 2 traffic stops. Complete more if necessary to teach the proper procedure.
 
-Firstly complete a traffic stop [without dispatch](https://docs.kcdojrp.com/docs/leo/information/first-shift#wo-dispatch).
-    - The recruit must have their [radar](https://docs.kcdojrp.com/docs/leo/tools/radar) working
+Firstly, complete a traffic stop [without dispatch](https://docs.kcdojrp.com/docs/leo/information/first-shift#wo-dispatch).
+    - The recruit must have their [radar](https://docs.kcdojrp.com/docs/leo/tools/radar) working.
     - In this traffic stop the recruit shall issue a ticket/citation.
 
-Then complete a traffic stop [with dispatch](https://docs.kcdojrp.com/docs/leo/information/first-shift#w-dispatch). (The T.O. Should be Dispatch)
-    - The recruit must have their [radar](https://docs.kcdojrp.com/docs/leo/tools/radar) working
+Then, complete a traffic stop [with dispatch](https://docs.kcdojrp.com/docs/leo/information/first-shift#w-dispatch) (the T.O. should be dispatch).
+    - The recruit must have their [radar](https://docs.kcdojrp.com/docs/leo/tools/radar) working.
     - In this traffic stop the recruit shall issue a verbal warning.
 
 * The training officer is not to be combative or aggressive during the traffic stop.
-* The recruit will make radio calls as outlined in [LEO First Shift](/docs/leo/information/first-shift)
+* The recruit will make radio calls as outlined in [LEO First Shift](/docs/leo/information/first-shift).
 
 ## Vehicle Pursuit
 
@@ -188,22 +188,22 @@ Simulate a scenario where the speeding vehicle fails to yield:
 **Note:** Lethal force is not authorized at all during this training phase.
 
 1. The recruit should engage in a [pursuit](https://docs.kcdojrp.com/docs/leo/information/first-shift#vehicle-pursuit-procedures), following all traffic laws and maintaining personal and public safety.
-    - Review the Pursuit Procedures [Here](https://docs.kcdojrp.com/docs/leo/information/first-shift#vehicle-pursuit-procedures)
-2. After a reasonable period, The recruit shall execute a PIT manoeuver on the fleeing vehicle.
+    - Review the Pursuit Procedures [here](https://docs.kcdojrp.com/docs/leo/information/first-shift#vehicle-pursuit-procedures).
+2. After a reasonable period, the recruit shall execute a PIT maneuver on the fleeing vehicle.
 
 ## Felony Traffic Stop & Foot Pursuit
 
 The recruit will conduct a felony (Code 5) traffic stop on the previously fleeing vehicle:
 
 1. Utilize proper procedures to ensure officer safety.
-    - Review the Felony Traffic Stop Procedures [Here](https://docs.kcdojrp.com/docs/leo/information/first-shift#felony-traffic-stop-code-5)
+    - Review the Felony Traffic Stop Procedures [here](https://docs.kcdojrp.com/docs/leo/information/first-shift#felony-traffic-stop-code-5).
 2. The recruit should communicate effectively and control the scene.
 
-Next Simulate a foot pursuit:
+Next, simulate a foot pursuit:
 
 1. The suspect will flee on foot after stopping the vehicle and attempting a felony stop.
 2. The recruit must decide on the appropriate course of action, following KCRP policies.
-3. Demonstrate the tackle function: (Shift + Forward + E) when close to the suspect, Or the tazer function.
+3. Demonstrate the tackle function: (Shift + Forward + E) when close to the suspect, or the tazer function.
 4. The recruit should successfully apprehend the suspect, adhering to all rules and procedures.
 
 ## Jailing & Reports
@@ -221,13 +221,13 @@ At the end of the training, evaluate the recruit based on their performance acro
 - Failing this process requires the recruit to review the documentation and restart the training.
 - Multiple failures necessitate resubmission of the initial application.
 
-Based on this evaluation three things can happen.
+Based on this evaluation three things can happen:
 1. The recruit will be prompted to a standard LEO and be permitted to patrol on their own.
-- This is reserve for nearly perfect passes on this training.
+- This is reserved for nearly perfect passes on this training.
 2. The recruit will have passed the training with some mistakes.
 - The recruit will be required to patrol with a full LEO until promoted by a supervisor.
 3. The recruit failed the training.
-- If a recruit has failed this training phase they will be notified and roles/access will be revoked. The recruit must wait 2 weeks to re-apply and will be asked to study the documentation before re-applying.
+- If a recruit has failed this training phase they will be notified and their roles/access will be revoked. The recruit must wait 2 weeks to re-apply and will be asked to study the documentation before re-applying.
 
 ---
 
